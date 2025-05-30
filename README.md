@@ -11,5 +11,5 @@
 Here, you can find some of my video game projects! At the moment, I focus a lot on the Roblox platform & game engine, but looking to expand in the future! Feel free to reach out!
 
 
-- 📜 **Recent News:** <a href="https://www.roblox.com/games/18892935511/Neohex"> Neohex</a> was awarded 1st place for Global Citizenship in the Roblox Inspire 2024 Challenge! Check it out!
-- 🛠️ **Currently Working On:** My 1st Roblox Creator Events Series. Stay tuned!
+- 📜 **Recent News:** <a href="https://devforum.roblox.com/t/math-for-roblox-developers-1-vectors/3659072"> I'm back to Roblox development tutorials</a>. Check it out!
+- 🛠️ **Currently Working On:** The next besstt gaeme!
